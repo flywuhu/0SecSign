@@ -34,7 +34,6 @@
 
    ![image-20210201120625415](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210201120625415.png)
 
-   
 
 2. 如果出现其他问题，如Server酱无法发送信息，强烈建议勾选“**固定出口IP选项**”。
 
