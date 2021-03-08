@@ -16,13 +16,13 @@
 
 
 
-2. 百度API请至此URL申请（https://console.bce.baidu.com/），ApiKey和SecretKey如图所示：
+2. 百度API请至此URL申请（https://console.bce.baidu.com/） ApiKey和SecretKey如图所示：
 
    ![image-20210201112316486](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210201112316486.png)
 
 
 
-3. 腾讯云函数至此URL申请（https://console.cloud.tencent.com/），使用教程不赘述，直接把代码复制进入即可，最后加个定时器触发，配置完成。
+3. 腾讯云函数至此URL申请（https://console.cloud.tencent.com/） 使用教程不赘述，直接把代码复制进入即可，最后加个定时器触发，配置完成。
 
    ![image-20210201112731669](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210201112731669.png)
 
