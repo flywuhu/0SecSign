@@ -1,6 +1,3 @@
-Time：2021/5/22 更新
-PS：server酱需要完整的地址，如 https://sc.ftqq.com/xxxxxxx.send 这种格式
-
 ## 0x01 概述
 
 
@@ -41,3 +38,6 @@ PS：server酱需要完整的地址，如 https://sc.ftqq.com/xxxxxxx.send 这�
 2. 如果出现其他问题，如Server酱无法发送信息，强烈建议勾选“**固定出口IP选项**”。
 
    ![image-20210201120817279](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210201120817279.png)
+   
+3. Time：2021/5/22 更新
+PS：server酱需要完整的地址，如 https://sc.ftqq.com/xxxxxxx.send 这种格式
