@@ -1,3 +1,6 @@
+Time：2021/5/22 更新
+PS：server酱需要完整的地址，如 https://sc.ftqq.com/xxxxxxx.send 这种格式
+
 ## 0x01 概述
 
 
