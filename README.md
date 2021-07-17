@@ -16,7 +16,7 @@
 
 
 
-2. 百度API请至此URL申请（https://console.bce.baidu.com/） ApiKey和SecretKey如图所示：
+2. 百度API请至此URL申请(https://console.bce.baidu.com/) ApiKey和SecretKey如图所示：
 
    ![image-20210201112316486](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210201112316486.png)
 
